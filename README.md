@@ -6,7 +6,7 @@ To use the api:
 
 here `inputNumber` is the number which needs to be checked for two sided prime.
 
-**response** will look like below:
+**response** will look like this:
 `{
   "result": true
 }`
