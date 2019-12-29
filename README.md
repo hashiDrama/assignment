@@ -1,4 +1,4 @@
-# assignment
+# Assignment
 Polygot assignment #1
 
 To use the api:
